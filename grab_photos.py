@@ -14,7 +14,7 @@ import requests
 import pandas as pd
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-SOURCE_CSV    = "photos.csv"           # your CSV file
+SOURCE_CSV    = "csv/items_Keenoa_5.13.2025.csv"           # your CSV file
 URL_COL       = "photo_url"
 ID_COL        = "participant_code"
 DATE_COL      = "diary_date"
